@@ -25,6 +25,10 @@
   <a href="https://codepen.io/renatoass" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   </div>
   
+  <div>
+  <a href="https://renatodexter.wixsite.com/dimarmo">Projeto Wix - Dimarmo</a>
+  <a href="https://reaugusto.github.io/personalBS/">Projeto Site - Personal Trainer</a>
+  </div>
   
   
   
