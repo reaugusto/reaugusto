@@ -28,8 +28,8 @@
   ##
   
   <div>
-  <a href="https://renatodexter.wixsite.com/dimarmo">Projeto Wix - Dimarmo</a> <br />
-  <a href="https://reaugusto.github.io/personalBS/">Projeto Site - Personal Trainer</a>
+  <a href="https://renatodexter.wixsite.com/dimarmo" target="_blank">Projeto Wix - Dimarmo</a> <br />
+  <a href="https://reaugusto.github.io/personalBS/" target="_blank">Projeto Site - Personal Trainer</a>
   </div>
   
   ##
