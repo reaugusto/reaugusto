@@ -1,6 +1,6 @@
 ## Meu nome é Renato Augusto. Sou FrontEnd com um gostinho de designer!
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/reaugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reaugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaugusto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
